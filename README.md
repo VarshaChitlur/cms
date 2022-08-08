@@ -1,6 +1,6 @@
 # Crime management system
 * Built using HTML, CSS, JavaScript, PHP and MySQL
-* Local server using xampp, apache and tomcat
+* Local server using XAMPP, Apache and Tomcat
 
 ## Working demo
 
