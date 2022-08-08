@@ -2,6 +2,30 @@
 * Built using HTML, CSS, JavaScript, PHP and MySQL
 * Local server using XAMPP, Apache and Tomcat
 
+## Application features
+### Admin Panel
+
+* <b>Admin Login</b> - Admin can login through login form.
+* <b>Category</b> - Admin can manage categories (Add, update, delete)
+* <b>Sub Category</b> - Admin can manage Subcategories (Add, update, delete)
+* <b>State</b> - Admin can manage states (Add, update, delete)
+* <b>Manage Crimes</b> - Access Complaint info, Change Complaint status.
+* <b>Manage the Users</b> - Admin can manage the all the users Profile.
+* <b>Users log</b> - Admin can also view user log info
+* <b>Change Password</b> - Admin can own password.
+
+### User Panel
+
+* <b>User Registration</b> - User can register through user registration form.
+* <b>User Login	</b> - User can login through login form.
+* <b>Forgot Password </b> - User can retrieve password through forgot password link.
+* <b>User Dashboard </b> - User can see complaints
+* <b>User Profile </b> - User can manage own profile.
+* <b>Lodge Complaint </b> - User can Lodge his/her Complaint.
+* <b>Complaint History </b> - User can view lodged complaint and status.
+* <b>Change Password </b> - User Can change own password.
+
+
 ## Working demo
 
 <img width="480" alt="image" src="https://user-images.githubusercontent.com/72350784/183367928-f3480978-fcd3-4b9b-b4b1-8a60de3c563c.png">
